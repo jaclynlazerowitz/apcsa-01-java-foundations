@@ -6,10 +6,10 @@ Write the explanations **in your own words.** Copying the error message back is 
 
 | # | Error message Java gave you | What was actually wrong | How you fixed it |
 |---|---|---|---|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
+| 1 | |Line 12 was missing a semicolon at the end |I added a semicolon|
+| 2 | |The public class was missing a closing bracket|I added the closing bracket on line 15|
+| 3 | |Main on line 11 is capitalized|I made the word Main lowercase again|
+| 4 | |In the public class brokenHello, broken should be capitalized|I switched brokenHello to BrokenHello and capitalized both words in the class name|
 
 ---
 

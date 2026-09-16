@@ -11,7 +11,9 @@
 public class HelloYou {
     public static void main(String[] args) {
 
-        // Your code here
+        System.out.println("Jaclyn Lazerowitz");
+        System.out.println("12th Grade");
+        System.out.println("I like watching Formula One");
 
     }
 }
