@@ -15,5 +15,9 @@ public class HelloYou {
         System.out.println("12th Grade");
         System.out.println("I like watching Formula One");
 
+        System.out.println("_____________________");
+        System.out.println("| Jaclyn Lazerowitz |");
+        System.out.println("_____________________");
+
     }
 }
